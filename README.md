@@ -120,7 +120,7 @@ Publish the website in the given URL.
     <br>
 
     <h1 style="text-align: center; margin-top: 20px;">Interactive Photo Gallery</h1>
-    <h3 style="text-align: center; margin-top: 20px;">GOGINENI BIDHISHA P(212223040048)</h3>
+    <h3 style="text-align: center; margin-top: 20px;">GOGINENI BIDHISHA (212223040048)</h3>
      <br>
      <br>
      <br>
