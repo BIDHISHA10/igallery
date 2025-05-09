@@ -26,6 +26,10 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
+
+image.html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,7 +124,7 @@ Publish the website in the given URL.
     <br>
 
     <h1 style="text-align: center; margin-top: 20px;">Interactive Photo Gallery</h1>
-    <h3 style="text-align: center; margin-top: 20px;">SANTHOSH P(24900693)</h3>
+    <h3 style="text-align: center; margin-top: 20px;">GOGINENI BIDHISHA (212223040048)</h3>
      <br>
      <br>
      <br>
@@ -129,25 +133,22 @@ Publish the website in the given URL.
 
     <div class="gallery">
         <div class="gallery-item" data-image="image1.jpg">
-            <img src="img1.jpg" alt="Photo 1">
+            <img src="img1.png" alt="Photo 1">
         </div>
         <div class="gallery-item" data-image="image2.jpg">
-            <img src="img2.webp" alt="Photo 2">
+            <img src="img2.png" alt="Photo 2">
         </div>
         <div class="gallery-item" data-image="image3.jpg">
-            <img src="img3.webp" alt="Photo 3">
+            <img src="img3.png" alt="Photo 3">
         </div>
         <div class="gallery-item" data-image="image3.jpg">
-          <img src="img4.jpg" alt="Photo 3">
+          <img src="img4.png" alt="Photo 3">
       </div>
       <div class="gallery-item" data-image="image3.jpg">
-        <img src="img5.webp" alt="Photo 3">
+        <img src="img5.png" alt="Photo 3">
     </div>
-    <div class="gallery-item" data-image="image3.jpg">
-      <img src="img6.avif" alt="Photo 3">
-  </div>
         
-    </div>
+    
 
     <div class="modal" id="modal">
         <div class="modal-content">
@@ -183,13 +184,11 @@ Publish the website in the given URL.
 
 </body>
 </html>
+
 ```
-
 ## OUTPUT:
+![Screenshot 2025-05-09 103817](https://github.com/user-attachments/assets/2a4faa7f-88aa-485b-8e54-b1ed62633151)
 
-![alt text](<Screenshot 2025-05-08 154337.png>)
-
-![alt text](<Screenshot 2025-05-08 154350.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
